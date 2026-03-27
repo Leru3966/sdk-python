@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## v0.1.2 (2026-03-27)
+
+### Fix
+
+- **tools**: support legacy strands module-based tool pattern (#14)
+- add Windows path support (#13)
+- align strands-agents version constraint in extras with main dependency (#10)
+
 ## v0.1.1 (2026-03-24)
 
 ### Fix
